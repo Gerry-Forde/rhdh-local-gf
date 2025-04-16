@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
-  name: Gerry-Forde
+  name: gerry-forde
 spec:
   profile:
     displayName: Me On RHDH # Can be anything, defaults to metadata.name
